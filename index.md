@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Cool Documentation Website
 ---
+# Documentation
+*Work in progress*
